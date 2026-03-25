@@ -1,5 +1,7 @@
 # Django Classroom Activity Notifier
 
+![Django Classroom Activity Notifier](https://github.com/abdxdev/Google_Classroom_API/blob/main/screenshots/screenshot_1.png?raw=true)
+
 ## Overview
 
 This Django project checks for new activities (announcements, coursework, and materials) in Google Classroom courses and sends notifications to a specified webhook URL. The project integrates with the Google Classroom API and is designed to run periodic checks for updates, ensuring that new activities are promptly notified.
