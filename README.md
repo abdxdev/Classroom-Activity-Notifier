@@ -1,6 +1,6 @@
 # Django Classroom Activity Notifier
 
-![Django Classroom Activity Notifier](https://github.com/abdxdev/Google_Classroom_API/blob/main/screenshots/screenshot_1.png?raw=true)
+![Django Classroom Activity Notifier](https://github.com/abdxdev/Classroom-Activity-Notifier/blob/main/screenshots/screenshot_1.png?raw=true)
 
 ## Overview
 
